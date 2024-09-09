@@ -16,5 +16,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naaylla&show_icons=true&locale=en&layout=compact" alt="naaylla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naaylla&" alt="naaylla" /></p>
-
