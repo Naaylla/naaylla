@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahmoune Nayla</h1>
-<h3 align="center">A passionate developer from Algeria</h3>
+<h3 align="center">A first-year Master’s student in Visual Computing and a passionate developer from Algeria</h3>
 
 - 🔭 I’m currently working on **a web socket based application for real time drawing**
 
