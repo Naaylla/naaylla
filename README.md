@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rahmoune Nayla</h1>
+<h1 align="center">Hi, I'm Nayla 👋h1>
 <h3 align="center">A first-year Master’s student in Visual Computing and a passionate developer from Algeria</h3>
-
-- 🔭 I’m currently working on **a web socket based application for real time drawing**
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 📫 How to reach me **rahmoune.nayla@gmail.com**
+- 📫 Reach me **rahmoune.nayla@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
