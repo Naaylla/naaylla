@@ -7,5 +7,5 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naaylla&show_icons=true&locale=en&layout=compact" alt="naaylla" /></p>
 
 <p align="center">
-  <i>“i am not the best coder, but i love coding and every line i write”</i>
+  <i>“i love every line i write”</i>
 </p>
