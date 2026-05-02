@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nayla!</h1>
 
 <h3 align="center">
-A Developer • Game Developer • Hackathon enjoyer • From Algeria 🇩🇿
+Visual Computing graduate • Developer • Game Developer • Hackathon enjoyer • From Algeria 🇩🇿
 </h3>
 
 <p align="center">
