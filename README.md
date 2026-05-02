@@ -5,8 +5,7 @@ Visual Computing graduate • Developer • Game Developer • Hackathon enjoyer
 </h3>
 
 <p align="center">
-I like building things from scratch, games, dev tools, and logic-heavy systems!
-
+I like building things from scratch, games, dev tools, and logic-driven systems.
 </p>
 
 ---
@@ -20,5 +19,6 @@ I like building things from scratch, games, dev tools, and logic-heavy systems!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
