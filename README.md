@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Nayla!</h1>
-
 <h3 align="center">
 Computer Graphics Student • Developer • Game Developer • Hackathon enjoyer
 </h3>
