@@ -2,10 +2,6 @@
 Computer Graphics Student • Developer • Game Developer • Hackathon enjoyer
 </h3>
 
-<p align="center">
-I like building things from scratch, games, dev tools, and logic-driven systems.
-</p>
-
 ---
 
 <h3 align="center">Languages and Tools</h3>
