@@ -1,5 +1,5 @@
 <h3 align="center">
-Computer Graphics Student • Developer • Game Developer • Hackathon enjoyer
+Computer Graphics Student • Developer • Game Developer
 </h3>
 
 ---
